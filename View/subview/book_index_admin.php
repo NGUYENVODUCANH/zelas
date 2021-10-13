@@ -1,4 +1,5 @@
 <div id="info">
+	<h1>Nguyễn Võ Đức Anh - DH51800963 - D18_TH03 </h1>
 		<?php
 	 	if (isset($_SESSION['info'])) echo $_SESSION['info'];
 	 	unset($_SESSION['info']);
